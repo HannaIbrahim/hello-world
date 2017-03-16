@@ -1,0 +1,9 @@
+vpn.m2s.com
+Username: hibrahim
+Password: Raf278278
+-------------------------------
+http://apexweb1-dev.m2s.com:7777/pls/apex/f?p=4000
+-----------------------------------------------------
+Mockup website:URL:http://mockup-dev.m2s.com:8083/users/sign_in
+                  user name:m2sdemo@m2s.com
+                  PW: demodemo
