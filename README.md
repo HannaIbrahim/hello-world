@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-This is readme file for helo world
+This is readme file for hello world
